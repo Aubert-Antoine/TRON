@@ -8,5 +8,6 @@ Please find the `.pdf` file for construction and code base information.
 - The advence version `Tron_parallel.py`, has a **verctorial algorithme**.
 
 # AI info : 
-**The AI is based on Monté Carlo principle**
+**The AI is based on Monté Carlo principle**.
+
 The project use `Numpy` for better perfs.
